@@ -2,6 +2,7 @@
 
 namespace App\Mail;
 
+/* This is the very important part */
 use App\Models\Setting;
 use Illuminate\Bus\Queueable;
 use Illuminate\Mail\Mailable;
