@@ -2,7 +2,7 @@
 
 
 
-use Illuminate\Support\Facades\Route;
+use Illuminate\Support\Facades\Route; //Determine the route they use
 use Illuminate\Support\Facades\Artisan;
 use App\Http\Controllers\PageController;
 use Illuminate\Support\Facades\Redirect;
